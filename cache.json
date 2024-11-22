@@ -286,6 +286,16 @@
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
         {
+          "id": "673e738139346c3d3174676e",
+          "author": "Temani Afif",
+          "description": "In a previous article, I showed you how to create filling CSS loaders collection where each loader was built using a single HTML element. Here, you’ll learn more about loaders by creating the Zig-Zag collection. Here is an overview of what you’ll be ...",
+          "link": "https://www.freecodecamp.org/news/zig-zag-css-loaders/",
+          "publishedOn": "2024-11-20T23:40:49.000Z",
+          "wordCount": 2315,
+          "title": "How to Create Zig-Zag CSS Loaders Using One Element",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732045303831/af9240a9-6a25-4b13-a397-102ee098db78.jpeg"
+        },
+        {
           "id": "673e03874ee4d6be53b9fe65",
           "author": "Beau Carnes",
           "description": "State management is one of the most important aspects of building scalable and efficient React applications. Whether you're managing user interactions, API data, or application-wide settings, having a robust tool for handling state can save time and ...",
