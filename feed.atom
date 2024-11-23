@@ -2,10 +2,71 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://juev.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-11-22T00:51:25.012Z</updated>
+    <updated>2024-11-23T00:49:31.631Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://juev.github.io/feed/index.html"/>
     <link rel="self" href="https://juev.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Implement RBAC in a Community Dashboard with Nuxt]]></title>
+        <id>6740bf4cd3bb67c73837c3ef</id>
+        <link href="https://www.freecodecamp.org/news/rbac-community-dashboard-with-nuxt/"/>
+        <updated>2024-11-22T17:28:44.000Z</updated>
+        <summary type="html"><![CDATA[Role Based Access Control (RBAC) is a useful authorization model for users with different access levels, such as those in a community dashboard. In this article, you’ll learn how to integrate this type of authorization with Permit.io in Nuxt. Table o...]]></summary>
+        <author>
+            <name>Obum</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Handle Forms in Next.js with Server Actions and Zod for Validation]]></title>
+        <id>6740b5ae31fc8f5b09184849</id>
+        <link href="https://www.freecodecamp.org/news/handling-forms-nextjs-server-actions-zod/"/>
+        <updated>2024-11-22T16:47:42.000Z</updated>
+        <summary type="html"><![CDATA[Forms are essential in modern websites, as they help you collect your users’ information. So knowing how to handle forms properly is crucial when you’re building web applications. In this article, you will learn how to handle forms in Next.js using s...]]></summary>
+        <author>
+            <name>Chidera Humphrey</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Automating a coffee shop chain using self-taught coding skills with Eamonn Cottrell [Interview #151]]]></title>
+        <id>6740ac934465e258a6ed9ff7</id>
+        <link href="https://www.freecodecamp.org/news/self-taught-coding-automating-coffee-shop-chain-eamonn-cottrell-interview-151/"/>
+        <updated>2024-11-22T16:08:51.000Z</updated>
+        <summary type="html"><![CDATA[On this week's episode of the podcast, I interview Eamonn Cottrell. He's a software engineer who also runs a local chain of coffee shops in Knoxville. Eamonn taught himself to code using freeCodeCamp. And he's since published 37 freeCodeCamp tutorial...]]></summary>
+        <author>
+            <name>Quincy Larson</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Learn Python for JavaScript Developers [Full Handbook]]]></title>
+        <id>67409b36d94f5ae0c0e97650</id>
+        <link href="https://www.freecodecamp.org/news/learn-python-for-javascript-developers-handbook/"/>
+        <updated>2024-11-22T14:54:46.000Z</updated>
+        <summary type="html"><![CDATA[As a developer with experience in JavaScript, you likely know how versatile the language is, especially when it comes to web development. JavaScript powers both frontend and backend development (thanks to Node.js) and has grown to become one of the m...]]></summary>
+        <author>
+            <name>German Cocca</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Solved by CSS: Donuts Scopes]]></title>
+        <id>https://css-tricks.com/?p=382613</id>
+        <link href="https://css-tricks.com/solved-by-css-donuts-scopes/"/>
+        <updated>2024-11-22T13:50:55.000Z</updated>
+        <summary type="html"><![CDATA[Donut scoping addresses the challenge of preventing parent styles from leaking to nested content. Originating from a 2011 concept by Nicole Sullivan, the issue has evolved, culminating in 2024's @scope at-rule. This allows for more precise CSS styling, safeguarding content from unwanted inheritance while managing global CSS complexities.
+Solved by CSS: Donuts Scopes originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Juan Diego Rodríguez</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Why You Should Speak At Events As An Early-Career Professional]]></title>
+        <id>https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/</id>
+        <link href="https://smashingmagazine.com/2024/11/why-you-speak-events-early-career-professional/"/>
+        <updated>2024-11-22T09:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Many talented professionals hold back from speaking at tech events, believing they need years of experience or expert status first. Drawing from her experience as a first-time speaker at WordPress Accessibility Day 2024, Victoria Nduka discusses how speaking at events benefits both individuals and the tech community.]]></summary>
+        <author>
+            <name>hello@smashingmagazine.com (Victoria Nduka)</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Create Zig-Zag CSS Loaders Using One Element]]></title>
         <id>673e738139346c3d3174676e</id>
@@ -435,28 +496,6 @@ Left Half and Right Half Layout – Many Different Ways originally published on 
         <updated>2024-10-24T14:05:56.000Z</updated>
         <summary type="html"><![CDATA[The CSS text-wrap property is (rightfully) widely assumed to be used strictly for text elements. But Terrence Eden posted an article on his blog that shows how it can also be used to balance the way other types of elements wrap, including icons.
 You can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Geoff Graham</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clarifying the Relationship Between Popovers and Dialogs]]></title>
-        <id>https://css-tricks.com/?p=382008</id>
-        <link href="https://css-tricks.com/clarifying-the-relationship-between-popovers-and-dialogs/"/>
-        <updated>2024-10-23T13:20:46.000Z</updated>
-        <summary type="html"><![CDATA[Pop quiz! What's the difference between a Popover element and a Dialog element? The answer is not all that clear and is widely misunderstood, but Zell has a clear way to explain it so that you know which element to reach for in your work.
-Clarifying the Relationship Between Popovers and Dialogs originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
-        <author>
-            <name>Zell Liew</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Clamp it! VS Code extension]]></title>
-        <id>https://css-tricks.com/?p=381992</id>
-        <link href="https://css-tricks.com/clamp-it-vs-code-extension/"/>
-        <updated>2024-10-23T13:15:20.000Z</updated>
-        <summary type="html"><![CDATA[There’s a lot of math behind fluid typography. CSS does make the math a lot easier these days, but even if you’re comfortable with that, writing the full declaration can be verbose and tough to remember. I know I often …
-Clamp it! VS Code extension originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Geoff Graham</name>
         </author>
