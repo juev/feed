@@ -130,26 +130,6 @@
           "wordCount": 6371,
           "title": "Come to the light-dark() Side",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
-        },
-        {
-          "id": "http://css-tricks.com/?p=198099",
-          "author": "Geoff Graham",
-          "description": "Imagine a scenario where you need to split a layout in half. Basically two equal height columns are needed inside of a container. Each side takes up exactly half of the container. Like many things in CSS, there are a number of ways to go about this.\nLeft Half and Right Half Layout – Many Different Ways originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/left-and-right/",
-          "publishedOn": "2024-10-25T11:51:02.000Z",
-          "wordCount": 3674,
-          "title": "Left Half and Right Half Layout – Many Different Ways",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/198099"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382065",
-          "author": "Geoff Graham",
-          "description": "The CSS text-wrap property is (rightfully) widely assumed to be used strictly for text elements. But Terrence Eden posted an article on his blog that shows how it can also be used to balance the way other types of elements wrap, including icons.\nYou can use text-wrap: balance; on icons originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/you-can-use-text-wrap-balance-on-icons/",
-          "publishedOn": "2024-10-24T14:05:56.000Z",
-          "wordCount": 1828,
-          "title": "You can use text-wrap: balance; on icons",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382065"
         }
       ]
     },
