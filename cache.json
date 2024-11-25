@@ -120,16 +120,6 @@
           "wordCount": 2638,
           "title": "Tooltip Best Practices",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382039",
-          "author": "Sara Joy",
-          "description": "Dark mode interfaces have matured a lot in the past few years. We all know the \"traditional\" approach using media queries but in this article, Sara Joy demonstrates modern CSS features that make respecting user color scheme preferences pretty darn easy.\nCome to the light-dark() Side originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/come-to-the-light-dark-side/",
-          "publishedOn": "2024-10-25T14:08:20.000Z",
-          "wordCount": 6371,
-          "title": "Come to the light-dark() Side",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382039"
         }
       ]
     },
