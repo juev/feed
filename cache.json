@@ -145,16 +145,6 @@
           "wordCount": 3706,
           "title": "State of CSS 2024 Results",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382144"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382082",
-          "author": "Zell Liew",
-          "description": "What are tooltips, exactly? There's two kinds and the one you use has implications on the user experience, as Zell illustrates in this explainer on best practices.\nTooltip Best Practices originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/tooltip-best-practices/",
-          "publishedOn": "2024-10-29T14:01:18.000Z",
-          "wordCount": 2638,
-          "title": "Tooltip Best Practices",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382082"
         }
       ]
     },
@@ -282,21 +272,6 @@
             "type": "image/png"
           },
           "imageUrl": "http://files.smashing.media/articles/desktop-wallpaper-calendars-november-2024/nov-24-honoring-the-sound-of-jazz-and-soul-preview-opt.png"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/10/designing-for-gen-z/",
-          "author": "hello@smashingmagazine.com (Vitaly Friedman)",
-          "description": "There are many myths revolving around Gen Z and how they use tech. Time to take a look at actual behavior patterns that go beyond heavy use of social media. Part of [Smart Interface Design Patterns](https://smart-interface-design-patterns.com) by yours truly.",
-          "link": "https://smashingmagazine.com/2024/10/designing-for-gen-z/",
-          "publishedOn": "2024-10-30T09:00:00.000Z",
-          "wordCount": 4722,
-          "title": "Designing For Gen Z: Expectations And UX Guidelines",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/designing-for-gen-z/3-clearleft-case-study-opt.png",
-            "length": "0",
-            "type": "image/png"
-          },
-          "imageUrl": "http://files.smashing.media/articles/designing-for-gen-z/3-clearleft-case-study-opt.png"
         }
       ]
     },
@@ -305,6 +280,16 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "67488780f60a357b6cecd459",
+          "author": "Adekola Olawale",
+          "description": "In today’s fast-paced tech landscape, microservices have emerged as one of the most efficient ways to architect and manage scalable, flexible, and resilient cloud-based systems. Whether you're working with large-scale applications or building somethi...",
+          "link": "https://www.freecodecamp.org/news/the-microservices-book-build-and-manage-services-in-the-cloud/",
+          "publishedOn": "2024-11-28T15:08:48.000Z",
+          "wordCount": 31747,
+          "title": "The Microservices Book – Learn How to Build and Manage Services in the Cloud",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1732028836710/aedce669-1e41-4bb1-8619-6994ed741b5c.png"
+        },
         {
           "id": "674755a7cc41aab7422d5afb",
           "author": "Mihail Gaberov",
