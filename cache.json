@@ -125,16 +125,6 @@
           "wordCount": 4069,
           "title": "Fluid Everything Else",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382107"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382156",
-          "author": "Lee Meyer",
-          "description": "Can we recreate a JavaScript library for scrolling animations with a modern CSS approach using CSS Scroll-Driven Animations? Yes. Yes, we can.\nWeb-Slinger.css: Like Wow.js But With CSS-y Scroll Animations originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/web-slinger-css-like-wow-js-but-with-css-y-scroll-animations/",
-          "publishedOn": "2024-11-01T14:00:36.000Z",
-          "wordCount": 3040,
-          "title": "Web-Slinger.css: Like Wow.js But With CSS-y Scroll Animations",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382156"
         }
       ]
     },
