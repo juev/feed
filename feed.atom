@@ -2,10 +2,81 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://juev.github.io/feed/index.html</id>
     <title>osmos::feed</title>
-    <updated>2024-12-04T00:53:23.843Z</updated>
+    <updated>2024-12-05T00:53:19.217Z</updated>
     <generator>osmosfeed 1.15.1</generator>
     <link rel="alternate" href="https://juev.github.io/feed/index.html"/>
     <link rel="self" href="https://juev.github.io/feed/feed.atom"/>
+    <entry>
+        <title type="html"><![CDATA[How to Contribute to Open Source Projects as a Beginner]]></title>
+        <id>6750bb3aa3b6f30029afad23</id>
+        <link href="https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-as-a-beginner/"/>
+        <updated>2024-12-04T20:27:38.000Z</updated>
+        <summary type="html"><![CDATA[Recently, I attended an open-source summit and was struck by an unexpected revelation. During a panel discussion about community contributions, a question was posed to the audience: “How many of you have contributed to an open-source project before?”...]]></summary>
+        <author>
+            <name>Fanny Nyayic</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Next.js vs React – Differences and How to Choose the Right One for Your Project]]></title>
+        <id>6750b8d54a1773ff14ce07cd</id>
+        <link href="https://www.freecodecamp.org/news/nextjs-vs-react-differences/"/>
+        <updated>2024-12-04T20:17:25.000Z</updated>
+        <summary type="html"><![CDATA[As a developer, there are many tools, languages, frameworks and open-source packages you have to learn in order to make your job easier and straightforward (though the journey isn’t a straightforward one but you will get there). Some of these tools, ...]]></summary>
+        <author>
+            <name>Okoro Emmanuel Nzube</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Build Multilingual Apps with i18n in React]]></title>
+        <id>6750aec5bb4ed9c12f206d7d</id>
+        <link href="https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/"/>
+        <updated>2024-12-04T19:34:29.000Z</updated>
+        <summary type="html"><![CDATA[I recently worked on an exciting project that involved creating a website capable of switching between languages to appeal to a broader audience. This made me understand the concept of "localization" better, which typically entails adapting content t...]]></summary>
+        <author>
+            <name>Timilehin Micheal</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Code That's Easy to Read – Tips for Developers]]></title>
+        <id>675098030c45d94ee71d4e04</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-code-thats-easy-to-read/"/>
+        <updated>2024-12-04T17:57:23.000Z</updated>
+        <summary type="html"><![CDATA[Programs are meant to be read by humans and only incidentally for computers to execute. - Donald Knuth Have you ever heard that programmers spend more time reading code than writing it? Well, I’ve found that this is often true: as a developer, you’l...]]></summary>
+        <author>
+            <name>Orim Dominic Adah</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[How to Write Better Names for Your Variables, Functions, and Classes – With Examples]]></title>
+        <id>6750922cfe6f3f72caf2624a</id>
+        <link href="https://www.freecodecamp.org/news/how-to-write-better-variable-names/"/>
+        <updated>2024-12-04T17:32:28.000Z</updated>
+        <summary type="html"><![CDATA[Naming is one of the most important and challenging parts of writing clean, maintainable, and scalable code. A well-thought-out variable name, for example, can act as self-documenting code, saving time and effort in understanding the logic. But poorl...]]></summary>
+        <author>
+            <name>Asfak Ahmed</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Law of Diminishing Returns]]></title>
+        <id>https://css-tricks.com/?p=382846</id>
+        <link href="https://css-tricks.com/the-law-of-diminishing-returns/"/>
+        <updated>2024-12-04T16:20:24.000Z</updated>
+        <summary type="html"><![CDATA[Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.
+The Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
+        <author>
+            <name>Geoff Graham</name>
+        </author>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Build a Stable Diffusion VAE From Scratch using Pytorch]]></title>
+        <id>67506cfb94f39e7617233d40</id>
+        <link href="https://www.freecodecamp.org/news/build-a-stable-diffusion-vae-from-scratch-using-pytorch/"/>
+        <updated>2024-12-04T14:53:47.000Z</updated>
+        <summary type="html"><![CDATA[We just published a course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about Variational Autoencoders (VAEs). This course is perfect for anyone looking to dive deep into one of the fundamental concepts behi...]]></summary>
+        <author>
+            <name>Beau Carnes</name>
+        </author>
+    </entry>
     <entry>
         <title type="html"><![CDATA[How to Perform Code Reviews in Tech – The Painless Way]]></title>
         <id>674f6a16678426d72d800cd5</id>
@@ -626,16 +697,6 @@ Popping Comments With CSS Anchor Positioning and View-Driven Animations original
 Fluid Everything Else originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.]]></summary>
         <author>
             <name>Richard Hubbard</name>
-        </author>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website]]></title>
-        <id>https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/</id>
-        <link href="https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/"/>
-        <updated>2024-11-05T10:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.]]></summary>
-        <author>
-            <name>hello@smashingmagazine.com (Geoff Graham)</name>
         </author>
     </entry>
 </feed>

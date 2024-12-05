@@ -12,6 +12,16 @@
       "siteUrl": "https://css-tricks.com",
       "articles": [
         {
+          "id": "https://css-tricks.com/?p=382846",
+          "author": "Geoff Graham",
+          "description": "Striking the right balance can be tough. We don’t want cool mama bear's porridge or hot papa's bear porridge, but something right in the middle, like baby bear’s porridge.\nThe Law of Diminishing Returns originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
+          "link": "https://css-tricks.com/the-law-of-diminishing-returns/",
+          "publishedOn": "2024-12-04T16:20:24.000Z",
+          "wordCount": 2039,
+          "title": "The Law of Diminishing Returns",
+          "imageUrl": "https://i0.wp.com/css-tricks.com/wp-content/uploads/2018/11/cssstacks.png"
+        },
+        {
           "id": "https://css-tricks.com/?p=382731",
           "author": "Ryan Trimble",
           "description": "We can anchor one element to another. We can also attach one element to multiple anchors. In this experiment, Ryan riffs on those ideas and comes up with a new way to transition between two anchors and the result is a practical use case that would normally require JavaScript.\nOne of Those “Onboarding” UIs, With Anchor Positioning originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
@@ -282,21 +292,6 @@
             "type": "image/jpg"
           },
           "imageUrl": "http://files.smashing.media/articles/rethinking-technical-illustrations-data-visualisations/alternatives-typical-technical-illustrations-data-visualisations.jpg"
-        },
-        {
-          "id": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
-          "author": "hello@smashingmagazine.com (Geoff Graham)",
-          "description": "Feeling good with your Lighthouse score of 100%? You should! But you should also know that you’re only looking at part of the performance picture. Learn how Lighthouse scores are measured differently than other tools, the impact that has on measuring performance metrics, and why you need real-user monitoring for a complete picture.",
-          "link": "https://smashingmagazine.com/2024/11/why-optimizing-lighthouse-score-not-enough-fast-website/",
-          "publishedOn": "2024-11-05T10:00:00.000Z",
-          "wordCount": 4240,
-          "title": "Why Optimizing Your Lighthouse Score Is Not Enough For A Fast Website",
-          "enclosure": {
-            "url": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg",
-            "length": "0",
-            "type": "image/jpg"
-          },
-          "imageUrl": "http://files.smashing.media/articles/why-optimizing-lighthouse-score-not-enough-fast-website/why-optimizing-lighthouse-score-not-enough-fast-website.jpg"
         }
       ]
     },
@@ -305,6 +300,66 @@
       "feedUrl": "https://www.freecodecamp.org/news/rss/",
       "siteUrl": "https://www.freecodecamp.org/news/",
       "articles": [
+        {
+          "id": "6750bb3aa3b6f30029afad23",
+          "author": "Fanny Nyayic",
+          "description": "Recently, I attended an open-source summit and was struck by an unexpected revelation. During a panel discussion about community contributions, a question was posed to the audience: “How many of you have contributed to an open-source project before?”...",
+          "link": "https://www.freecodecamp.org/news/how-to-contribute-to-open-source-projects-as-a-beginner/",
+          "publishedOn": "2024-12-04T20:27:38.000Z",
+          "wordCount": 3101,
+          "title": "How to Contribute to Open Source Projects as a Beginner",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733216336753/4dc34dd3-f7b9-4611-920a-7dfb8c93958e.png"
+        },
+        {
+          "id": "6750b8d54a1773ff14ce07cd",
+          "author": "Okoro Emmanuel Nzube",
+          "description": "As a developer, there are many tools, languages, frameworks and open-source packages you have to learn in order to make your job easier and straightforward (though the journey isn’t a straightforward one but you will get there). Some of these tools, ...",
+          "link": "https://www.freecodecamp.org/news/nextjs-vs-react-differences/",
+          "publishedOn": "2024-12-04T20:17:25.000Z",
+          "wordCount": 2898,
+          "title": "Next.js vs React – Differences and How to Choose the Right One for Your Project",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733260801154/22f3a036-3b7f-4e38-946e-93ec432164b1.png"
+        },
+        {
+          "id": "6750aec5bb4ed9c12f206d7d",
+          "author": "Timilehin Micheal",
+          "description": "I recently worked on an exciting project that involved creating a website capable of switching between languages to appeal to a broader audience. This made me understand the concept of \"localization\" better, which typically entails adapting content t...",
+          "link": "https://www.freecodecamp.org/news/build-multilingual-apps-with-i18n-in-react/",
+          "publishedOn": "2024-12-04T19:34:29.000Z",
+          "wordCount": 2574,
+          "title": "How to Build Multilingual Apps with i18n in React",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733137904769/d29dd9ea-5794-4fbe-ac1c-066f6a216cb2.png"
+        },
+        {
+          "id": "675098030c45d94ee71d4e04",
+          "author": "Orim Dominic Adah",
+          "description": "Programs are meant to be read by humans and only incidentally for computers to execute. - Donald Knuth Have you ever heard that programmers spend more time reading code than writing it? Well, I’ve found that this is often true: as a developer, you’l...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-code-thats-easy-to-read/",
+          "publishedOn": "2024-12-04T17:57:23.000Z",
+          "wordCount": 2437,
+          "title": "How to Write Code That's Easy to Read – Tips for Developers",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733334801650/9c73c253-246a-4678-8d65-6679ff7f35f2.png"
+        },
+        {
+          "id": "6750922cfe6f3f72caf2624a",
+          "author": "Asfak Ahmed",
+          "description": "Naming is one of the most important and challenging parts of writing clean, maintainable, and scalable code. A well-thought-out variable name, for example, can act as self-documenting code, saving time and effort in understanding the logic. But poorl...",
+          "link": "https://www.freecodecamp.org/news/how-to-write-better-variable-names/",
+          "publishedOn": "2024-12-04T17:32:28.000Z",
+          "wordCount": 2944,
+          "title": "How to Write Better Names for Your Variables, Functions, and Classes – With Examples",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733325693047/f3dff206-f0cf-47b0-9345-991b4d980d71.png"
+        },
+        {
+          "id": "67506cfb94f39e7617233d40",
+          "author": "Beau Carnes",
+          "description": "We just published a course on the freeCodeCamp.org YouTube channel that will teach you everything you need to know about Variational Autoencoders (VAEs). This course is perfect for anyone looking to dive deep into one of the fundamental concepts behi...",
+          "link": "https://www.freecodecamp.org/news/build-a-stable-diffusion-vae-from-scratch-using-pytorch/",
+          "publishedOn": "2024-12-04T14:53:47.000Z",
+          "wordCount": 1327,
+          "title": "Build a Stable Diffusion VAE From Scratch using Pytorch",
+          "imageUrl": "https://cdn.hashnode.com/res/hashnode/image/upload/v1733323982008/68d50c5d-0829-4d5c-90d0-c9feeedbd92d.jpeg"
+        },
         {
           "id": "674f6a16678426d72d800cd5",
           "author": "Ankur Tyagi",
