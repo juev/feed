@@ -140,16 +140,6 @@
           "wordCount": 1831,
           "title": "Tim Brown: Flexible Typesetting is now yours, for free",
           "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382456"
-        },
-        {
-          "id": "https://css-tricks.com/?p=382363",
-          "author": "Daniel Schwarz",
-          "description": "Let’s spend some time looking at disclosures, the Dialog API, the Popover API, and more. We’ll look at the right time to use each one depending on your needs. Modal or non-modal? JavaScript or pure HTML/CSS? Not sure? Don’t worry, we’ll go into all that.\nThe Different (and Modern) Ways to Toggle Content originally published on CSS-Tricks, which is part of the DigitalOcean family. You should get the newsletter.",
-          "link": "https://css-tricks.com/the-different-and-modern-ways-to-toggle-content/",
-          "publishedOn": "2024-11-08T13:57:09.000Z",
-          "wordCount": 4682,
-          "title": "The Different (and Modern) Ways to Toggle Content",
-          "imageUrl": "https://css-tricks.com/wp-json/social-image-generator/v1/image/382363"
         }
       ]
     },
